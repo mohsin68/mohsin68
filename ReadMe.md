@@ -1,9 +1,12 @@
 # 🧑🏻‍💻 Call Me Ahmed:
 🔭 I’m currently working on Javascript, Vuejs, and NuxtJs<br>🌱 I’m currently learning TypeScript, Reactjs, Nodejs, and MongoDB<br>💬 Ask me about Scss, Javascript, VueJs, and NuxtJs<br>
 
-![](https://github-readme-stats.vercel.app/api?username=mohsin68&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohsin68&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<div align="left">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsin68&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin68&theme=transparent&include_all_commits=true&count_private=true" height="160" />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo" title="Html" />
