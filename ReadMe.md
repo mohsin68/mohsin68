@@ -3,7 +3,8 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsin68&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=transparent&username=mohsin68" height="160" alt="languages graph"  />
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin68&theme=transparent&include_all_commits=true&count_private=true" height="160" />
 </div>
