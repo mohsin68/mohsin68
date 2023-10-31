@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" width="48" alt="yarn logo" title="Yarn" />
   <img src="https://axios-http.com/assets/favicon.ico" height="48" width="48" alt="axios logo" title="Axios" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="48" width="48" alt="xd logo" title="XD" />
 </div>
 
 
