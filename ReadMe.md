@@ -1,5 +1,4 @@
 # 🧑🏻‍💻 Call Me Ahmed:
-🔭 I’m currently working on Javascript, Vuejs, and NuxtJs<br>🌱 I’m currently learning TypeScript, Reactjs, Nodejs, and MongoDB<br>💬 Ask me about Scss, Javascript, VueJs, and NuxtJs<br>
 
 <div align="left">
 
